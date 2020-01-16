@@ -23,7 +23,8 @@ bio: My research interests include the Scottish Enlightemnet and Romantic eras, 
 interests:
   - Reading
   - Playing the Guitar
-  - Starting crafts but never finishing them
+  - Scottish Enlightenment and Romanticism
+  - Greek and Roman Arts
 
 
 education:
