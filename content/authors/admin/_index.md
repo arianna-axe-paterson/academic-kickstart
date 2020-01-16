@@ -60,5 +60,5 @@ email: "ariannaaxepaterson@cmail.carleton.ca"
 user_groups:
 
 ---
-Hello! I am a fourth year History Student at Carleton University. I am currently completing a Greek and Roman Studies Minor. I'm hoping in the future to work in some aspect of the publishing world, a recent revelation. In my free time I enjoy reading (Harry Potter, Donna Tartt and Sappho), facetiming my 5 dogs and listening to and playing music.
+Hello! I am a fourth year History Student at Carleton University. I am currently completing a Greek and Roman Studies Minor. I'm hoping in the future to work in some aspect of the publishing world, a recent revelation. In my free time I enjoy reading (Harry Potter, Donna Tartt and Sappho), FaceTiming my 5 dogs and listening to and playing music.
 
