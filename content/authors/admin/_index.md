@@ -18,9 +18,12 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include ...
+bio: My research interests include the Scottish Enlightemnet and Romantic eras, as well as anything within Greek, Etrusacan and Roman Antiquity.
 
 interests:
+  - Reading
+  - Playing the Guitar
+  - Starting crafts but never finishing them
 
 
 education:
@@ -50,13 +53,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "ariannaaxepaterson@cmail.carleton.ca"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Visitors
+
 ---
-hi this Arianna.
+Hello! I am a fourth year History Student at Carleton University. I am currently completing a Greek and Roman Studies Minor. I'm hoping in the future to work in some aspect of the publishing world, a recent revelation. In my free time I enjoy reading (Harry Potter, Donna Tartt and Sappho), facetiming my 5 dogs and listening to and playing music.
 
