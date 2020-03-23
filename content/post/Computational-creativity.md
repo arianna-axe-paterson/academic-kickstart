@@ -17,6 +17,14 @@ tags:
 
 # Devlog 10: Computational Creativity Presentation
 
-{google_docs}https://docs.google.com/presentation/d/e/2PACX-1vSno_v3if6P9nmKQJ8TopsyezAFY79x_cIWRRC02iDdgpc-hvxMFwS9krqeOaY3CIPYFnFm6oEmuULT/pub?start=false&loop=false&delayms=3000{/google_docs}
+<p><iframe src="<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSno_v3if6P9nmKQJ8TopsyezAFY79x_cIWRRC02iDdgpc-hvxMFwS9krqeOaY3CIPYFnFm6oEmuULT/embed?start=" 
+  frameborder="0" 
+  width="800" 
+  height="600" 
+  allowfullscreen="true" 
+  mozallowfullscreen="true" 
+  webkitallowfullscreen="true"></iframe></p>
+
+
 
 ---
